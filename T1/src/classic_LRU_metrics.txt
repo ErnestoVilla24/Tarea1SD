@@ -1,5 +1,0 @@
-Tipo de caché: classic
-Política de reemplazo: LRU
-Número de aciertos: 2
-Número de fallos: 48
-
